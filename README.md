@@ -9,4 +9,4 @@
   4) If a 6 is rolled the dice the player must take the amount of steps of a new roll up the tower
   5) The player wins if he reaches step 60 of the tower and loses if step 0 is reached
 
-### The following python code was used to simulate this random walk scenario where the chance of winning the game was calcuated
+### The chance of winning the game, the average final step placed and a plot of the distribution was calculated.
