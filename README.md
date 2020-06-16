@@ -1,7 +1,7 @@
 # Python-Tower-and-Dice-Simulation
 ## A short script used to simulate a random walk simulator for a python dice game
 
-### The simulation.py code simulates a dice game with the following restrictions:
+### The simulation.py file is used to model a dice game with the following restrictions:
 
   1) Starting at step 50 of a tower a dice is rolled (random seed is 123)
   2) If a 1 or a 2 is rolled the player must move one step down tower
