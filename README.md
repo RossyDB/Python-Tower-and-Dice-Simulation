@@ -9,7 +9,7 @@
   4) If a 6 is rolled the dice the player must take the amount of steps of a new roll up the tower
   5) The player wins if he reaches step 60 of the tower and loses if step 0 is reached
   
-  **The chance of winning the game, the average final step placed and a plot of the distribution was calculated.
+  The chance of winning the game, the average final step placed and a plot of the distribution was calculated.
 
 ### Distribution:
 ![Alt text](./output/Figure_1.png?raw=true "Distribution of walks")
