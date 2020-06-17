@@ -11,8 +11,10 @@
 
 ### The chance of winning the game, the average final step placed and a plot of the distribution was calculated.
 
-### 
-![Alt text](./output/Figure_1.png?raw=true "Distribution of walks")
-![Alt text](./output/output.PNG?raw=true "Console output")
+### Distribution:
+                  ![Alt text](./output/Figure_1.png?raw=true "Distribution of walks")
+
+### Console output for seed 123:
+                      ![Alt text](./output/output.PNG?raw=true "Console output")
 
 
